@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="ass3" targetName="ass3" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c58c263c-7fac-43f2-8f81-5387832e61db" name="Default Changelist" comment="">
+    <list default="true" id="6332958b-f684-4dfe-b088-14b8a4715778" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,48 +22,53 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1m3n0PCbeFb31sKOnYr4VwigSgL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1m3qcDrBiN4PRo1MjkekTUUhqBW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="ass3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ass3" TARGET_NAME="ass3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ass3" RUN_TARGET_NAME="ass3">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c58c263c-7fac-43f2-8f81-5387832e61db" name="Default Changelist" comment="" />
-      <created>1608730918997</created>
+      <changelist id="6332958b-f684-4dfe-b088-14b8a4715778" name="Default Changelist" comment="" />
+      <created>1608732700053</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608730918997</updated>
-      <workItem from="1608730921628" duration="374000" />
+      <updated>1608732700053</updated>
+      <workItem from="1608732701320" duration="88000" />
+      <workItem from="1608732790117" duration="399000" />
+      <workItem from="1609407693157" duration="1231000" />
+      <workItem from="1609413366759" duration="566000" />
+      <workItem from="1609414443804" duration="895000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="50" width="424" height="509" key="FileChooserDialogImpl" timestamp="1609409107346">
+      <screen x="67" y="27" width="1213" height="588" />
+    </state>
+    <state x="459" y="50" width="424" height="509" key="FileChooserDialogImpl/67.27.1213.588@67.27.1213.588" timestamp="1609409107346" />
+    <state x="459" y="207" width="424" height="195" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609408283121">
+      <screen x="67" y="27" width="1213" height="588" />
+    </state>
+    <state x="459" y="207" width="424" height="195" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1213.588@67.27.1213.588" timestamp="1609408283121" />
   </component>
 </project>
